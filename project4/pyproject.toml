@@ -9,6 +9,8 @@ license-expression = "MIT"
 dependencies = [
     "django>=4.0.3",
     "pip>=22.0.4",
+    "pylint>=2.13.4",
+    "docstring>=0.1.2.4",
 ]
 requires-python = ">=3.9"
 
